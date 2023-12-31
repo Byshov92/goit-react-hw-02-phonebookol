@@ -1,4 +1,8 @@
-import { FormButton, FormContacts, LabelContacts } from './ContactForm.styled';
+import {
+  FormButton,
+  FormContacts,
+  LabelContacts,
+} from 'components/ContactForm/ContactForm.styled';
 
 export const ContactForm = ({
   addContactName,

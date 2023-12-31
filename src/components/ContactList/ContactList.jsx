@@ -1,5 +1,5 @@
 import { ContactListItem } from 'components/ContactListItem/ContactListItem';
-import { List } from './ContactList.styled';
+import { List } from 'components/ContactList/ContactList.styled';
 
 export const ContactList = ({ contacts, onContactDelete }) => {
   return (

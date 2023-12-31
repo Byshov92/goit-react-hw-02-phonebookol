@@ -1,4 +1,4 @@
-import { LabelFilter } from './Filter.styled';
+import { LabelFilter } from 'components/Filter/Filter.styled';
 
 export const Filter = ({ filterInputValue, onChangeInputFilter }) => {
   return (
